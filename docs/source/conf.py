@@ -1,6 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
 import sphinx_rtd_theme
-import maisie_sphinx_theme
+# import maisie_sphinx_theme
 # extensions.append("maisie_sphinx_theme")
 
 # -- Project information
@@ -48,7 +48,6 @@ epub_show_urls = 'footnote'
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
-
 
 from recommonmark.parser import CommonMarkParser
 source_parsers = {
