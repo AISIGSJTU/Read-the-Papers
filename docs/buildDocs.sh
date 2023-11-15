@@ -21,7 +21,7 @@ pip3 install --no-cache-dir -r docs/requirements.txt
 # DECLARE VARIABLES #
 #####################
 
-git config --global --add safe.directory /__w/ReadtheDocs-Testing/ReadtheDocs-Testing
+git config --global --add safe.directory /__w/Read-the-Papers/Read-the-Papers
 
 pwd
 ls -lah
