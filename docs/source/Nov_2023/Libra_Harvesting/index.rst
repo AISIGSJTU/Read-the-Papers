@@ -1,5 +1,5 @@
-Libra(HPDC23)
-=============
+Libra (HPDC23)
+==============
 .. toctree::
    :maxdepth: 1
 
